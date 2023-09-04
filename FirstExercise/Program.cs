@@ -1,4 +1,6 @@
-﻿internal class Program
+﻿using System.Numerics;
+
+internal class Program
 {
     private static void Main(string[] args)
     {
@@ -21,10 +23,17 @@
             Console.WriteLine("Errorrr {0}",ex.Message.ToString());
         } 
         */
-        var a = 12.3;
-        double b = 12.3;
-        Console.WriteLine($"El valor {a} es de a");
-        Console.Clear();
-        Console.WriteLine($"El valor {b} es de b");
+        // var a = 12.3;
+        // double b = 12.3;
+        // Console.WriteLine($"El valor {a} es de a");
+        // Console.Clear();
+        // Console.WriteLine($"El valor {b} es de b");
+
+        // Para cambiar la moneda de un digito, en este caso 123.456 pasa a ser en dolares con
+        // $ 123.456
+        
+        // decimal value = 123.456m;
+        // Console.WriteLine(value);
+        // Console.WriteLine(value.ToString("C2"));
     }
 }
