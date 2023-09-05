@@ -1,0 +1,14 @@
+C:\Users\APM02-54\Desktop\ProjectCsharp\SecondExercise\bin\Debug\net7.0\SecondExercise.exe
+C:\Users\APM02-54\Desktop\ProjectCsharp\SecondExercise\bin\Debug\net7.0\SecondExercise.deps.json
+C:\Users\APM02-54\Desktop\ProjectCsharp\SecondExercise\bin\Debug\net7.0\SecondExercise.runtimeconfig.json
+C:\Users\APM02-54\Desktop\ProjectCsharp\SecondExercise\bin\Debug\net7.0\SecondExercise.dll
+C:\Users\APM02-54\Desktop\ProjectCsharp\SecondExercise\bin\Debug\net7.0\SecondExercise.pdb
+C:\Users\APM02-54\Desktop\ProjectCsharp\SecondExercise\obj\Debug\net7.0\SecondExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM02-54\Desktop\ProjectCsharp\SecondExercise\obj\Debug\net7.0\SecondExercise.AssemblyInfoInputs.cache
+C:\Users\APM02-54\Desktop\ProjectCsharp\SecondExercise\obj\Debug\net7.0\SecondExercise.AssemblyInfo.cs
+C:\Users\APM02-54\Desktop\ProjectCsharp\SecondExercise\obj\Debug\net7.0\SecondExercise.csproj.CoreCompileInputs.cache
+C:\Users\APM02-54\Desktop\ProjectCsharp\SecondExercise\obj\Debug\net7.0\SecondExercise.dll
+C:\Users\APM02-54\Desktop\ProjectCsharp\SecondExercise\obj\Debug\net7.0\refint\SecondExercise.dll
+C:\Users\APM02-54\Desktop\ProjectCsharp\SecondExercise\obj\Debug\net7.0\SecondExercise.pdb
+C:\Users\APM02-54\Desktop\ProjectCsharp\SecondExercise\obj\Debug\net7.0\SecondExercise.genruntimeconfig.cache
+C:\Users\APM02-54\Desktop\ProjectCsharp\SecondExercise\obj\Debug\net7.0\ref\SecondExercise.dll
