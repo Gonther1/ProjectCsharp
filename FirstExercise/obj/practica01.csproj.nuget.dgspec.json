@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\APM02-54\\Desktop\\ProjectCsharp\\FirstExercise\\practica01.csproj": {}
+    "c:\\Users\\APM02-54\\Desktop\\ProjectCsharp\\FirstExercise\\practica01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\APM02-54\\Desktop\\ProjectCsharp\\FirstExercise\\practica01.csproj": {
+    "c:\\Users\\APM02-54\\Desktop\\ProjectCsharp\\FirstExercise\\practica01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APM02-54\\Desktop\\ProjectCsharp\\FirstExercise\\practica01.csproj",
+        "projectUniqueName": "c:\\Users\\APM02-54\\Desktop\\ProjectCsharp\\FirstExercise\\practica01.csproj",
         "projectName": "practica01",
-        "projectPath": "C:\\Users\\APM02-54\\Desktop\\ProjectCsharp\\FirstExercise\\practica01.csproj",
+        "projectPath": "c:\\Users\\APM02-54\\Desktop\\ProjectCsharp\\FirstExercise\\practica01.csproj",
         "packagesPath": "C:\\Users\\APM02-54\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APM02-54\\Desktop\\ProjectCsharp\\FirstExercise\\obj\\",
+        "outputPath": "c:\\Users\\APM02-54\\Desktop\\ProjectCsharp\\FirstExercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APM02-54\\AppData\\Roaming\\NuGet\\NuGet.Config"
