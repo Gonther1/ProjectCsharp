@@ -22,3 +22,19 @@ valueList.Add("EmailAndres",emails);
 valueList.Add("FoodFavorite",foodFavorite);
 Console.WriteLine(valueList["EmailAndres"][0]);
 Console.WriteLine(valueList["FoodFavorite"][2]);
+// Constantes en C#
+const float decimal= 3.14956F;
+Console.WriteLine(decimal);
+// Funciones
+/* Tipo de funcion */ int /* Nombre de la funcion */ sumar(/* Parametros */int num1, int num2)
+{
+    return num1 + num2;
+} 
+/* Se llama la funcion */ Console.WriteLine(sumar());
+// Funciones sin retorno
+// En este caso se le agrega void antes de declarar la funcion
+void multiplicar(int primero, int segundo)
+{
+    Console.WriteLine(primero * segundo);
+}
+Console.WriteLine(multiplicar());
