@@ -1,0 +1,14 @@
+C:\Users\APM02-54\Desktop\ProjectCsharp\ThreeExercise\bin\Debug\net7.0\ThreeExercise.exe
+C:\Users\APM02-54\Desktop\ProjectCsharp\ThreeExercise\bin\Debug\net7.0\ThreeExercise.deps.json
+C:\Users\APM02-54\Desktop\ProjectCsharp\ThreeExercise\bin\Debug\net7.0\ThreeExercise.runtimeconfig.json
+C:\Users\APM02-54\Desktop\ProjectCsharp\ThreeExercise\bin\Debug\net7.0\ThreeExercise.dll
+C:\Users\APM02-54\Desktop\ProjectCsharp\ThreeExercise\bin\Debug\net7.0\ThreeExercise.pdb
+C:\Users\APM02-54\Desktop\ProjectCsharp\ThreeExercise\obj\Debug\net7.0\ThreeExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM02-54\Desktop\ProjectCsharp\ThreeExercise\obj\Debug\net7.0\ThreeExercise.AssemblyInfoInputs.cache
+C:\Users\APM02-54\Desktop\ProjectCsharp\ThreeExercise\obj\Debug\net7.0\ThreeExercise.AssemblyInfo.cs
+C:\Users\APM02-54\Desktop\ProjectCsharp\ThreeExercise\obj\Debug\net7.0\ThreeExercise.csproj.CoreCompileInputs.cache
+C:\Users\APM02-54\Desktop\ProjectCsharp\ThreeExercise\obj\Debug\net7.0\ThreeExercise.dll
+C:\Users\APM02-54\Desktop\ProjectCsharp\ThreeExercise\obj\Debug\net7.0\refint\ThreeExercise.dll
+C:\Users\APM02-54\Desktop\ProjectCsharp\ThreeExercise\obj\Debug\net7.0\ThreeExercise.pdb
+C:\Users\APM02-54\Desktop\ProjectCsharp\ThreeExercise\obj\Debug\net7.0\ThreeExercise.genruntimeconfig.cache
+C:\Users\APM02-54\Desktop\ProjectCsharp\ThreeExercise\obj\Debug\net7.0\ref\ThreeExercise.dll

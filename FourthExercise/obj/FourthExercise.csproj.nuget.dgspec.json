@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\APM02-54\\Desktop\\ProjectCsharp\\ThreeExercise\\ThreeExercise.csproj": {}
+    "C:\\Users\\APM02-54\\Desktop\\ProjectCsharp\\FourthExercise\\FourthExercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\APM02-54\\Desktop\\ProjectCsharp\\ThreeExercise\\ThreeExercise.csproj": {
+    "C:\\Users\\APM02-54\\Desktop\\ProjectCsharp\\FourthExercise\\FourthExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APM02-54\\Desktop\\ProjectCsharp\\ThreeExercise\\ThreeExercise.csproj",
-        "projectName": "ThreeExercise",
-        "projectPath": "C:\\Users\\APM02-54\\Desktop\\ProjectCsharp\\ThreeExercise\\ThreeExercise.csproj",
+        "projectUniqueName": "C:\\Users\\APM02-54\\Desktop\\ProjectCsharp\\FourthExercise\\FourthExercise.csproj",
+        "projectName": "FourthExercise",
+        "projectPath": "C:\\Users\\APM02-54\\Desktop\\ProjectCsharp\\FourthExercise\\FourthExercise.csproj",
         "packagesPath": "C:\\Users\\APM02-54\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APM02-54\\Desktop\\ProjectCsharp\\ThreeExercise\\obj\\",
+        "outputPath": "C:\\Users\\APM02-54\\Desktop\\ProjectCsharp\\FourthExercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APM02-54\\AppData\\Roaming\\NuGet\\NuGet.Config"

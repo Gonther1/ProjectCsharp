@@ -1,0 +1,14 @@
+C:\Users\APM02-54\Desktop\ProjectCsharp\FourthExercise\bin\Debug\net7.0\FourthExercise.exe
+C:\Users\APM02-54\Desktop\ProjectCsharp\FourthExercise\bin\Debug\net7.0\FourthExercise.deps.json
+C:\Users\APM02-54\Desktop\ProjectCsharp\FourthExercise\bin\Debug\net7.0\FourthExercise.runtimeconfig.json
+C:\Users\APM02-54\Desktop\ProjectCsharp\FourthExercise\bin\Debug\net7.0\FourthExercise.dll
+C:\Users\APM02-54\Desktop\ProjectCsharp\FourthExercise\bin\Debug\net7.0\FourthExercise.pdb
+C:\Users\APM02-54\Desktop\ProjectCsharp\FourthExercise\obj\Debug\net7.0\FourthExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM02-54\Desktop\ProjectCsharp\FourthExercise\obj\Debug\net7.0\FourthExercise.AssemblyInfoInputs.cache
+C:\Users\APM02-54\Desktop\ProjectCsharp\FourthExercise\obj\Debug\net7.0\FourthExercise.AssemblyInfo.cs
+C:\Users\APM02-54\Desktop\ProjectCsharp\FourthExercise\obj\Debug\net7.0\FourthExercise.csproj.CoreCompileInputs.cache
+C:\Users\APM02-54\Desktop\ProjectCsharp\FourthExercise\obj\Debug\net7.0\FourthExercise.dll
+C:\Users\APM02-54\Desktop\ProjectCsharp\FourthExercise\obj\Debug\net7.0\refint\FourthExercise.dll
+C:\Users\APM02-54\Desktop\ProjectCsharp\FourthExercise\obj\Debug\net7.0\FourthExercise.pdb
+C:\Users\APM02-54\Desktop\ProjectCsharp\FourthExercise\obj\Debug\net7.0\FourthExercise.genruntimeconfig.cache
+C:\Users\APM02-54\Desktop\ProjectCsharp\FourthExercise\obj\Debug\net7.0\ref\FourthExercise.dll
