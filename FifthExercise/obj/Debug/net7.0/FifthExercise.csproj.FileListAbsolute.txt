@@ -27,3 +27,17 @@ C:/Users/APM02-54/Desktop/ProjectCsharp/FifthExercise/obj/Debug/net7.0/ref/Fifth
 /workspaces/ProjectCsharp/FifthExercise/obj/Debug/net7.0/FifthExercise.pdb
 /workspaces/ProjectCsharp/FifthExercise/obj/Debug/net7.0/FifthExercise.genruntimeconfig.cache
 /workspaces/ProjectCsharp/FifthExercise/obj/Debug/net7.0/ref/FifthExercise.dll
+C:\Users\APM02-54\Desktop\ProjectCsharp\FifthExercise\obj\Debug\net7.0\FifthExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM02-54\Desktop\ProjectCsharp\FifthExercise\obj\Debug\net7.0\FifthExercise.AssemblyInfoInputs.cache
+C:\Users\APM02-54\Desktop\ProjectCsharp\FifthExercise\obj\Debug\net7.0\FifthExercise.AssemblyInfo.cs
+C:\Users\APM02-54\Desktop\ProjectCsharp\FifthExercise\obj\Debug\net7.0\FifthExercise.csproj.CoreCompileInputs.cache
+C:\Users\APM02-54\Desktop\ProjectCsharp\FifthExercise\obj\Debug\net7.0\FifthExercise.dll
+C:\Users\APM02-54\Desktop\ProjectCsharp\FifthExercise\obj\Debug\net7.0\refint\FifthExercise.dll
+C:\Users\APM02-54\Desktop\ProjectCsharp\FifthExercise\obj\Debug\net7.0\FifthExercise.pdb
+C:\Users\APM02-54\Desktop\ProjectCsharp\FifthExercise\bin\Debug\net7.0\FifthExercise.exe
+C:\Users\APM02-54\Desktop\ProjectCsharp\FifthExercise\bin\Debug\net7.0\FifthExercise.deps.json
+C:\Users\APM02-54\Desktop\ProjectCsharp\FifthExercise\bin\Debug\net7.0\FifthExercise.runtimeconfig.json
+C:\Users\APM02-54\Desktop\ProjectCsharp\FifthExercise\bin\Debug\net7.0\FifthExercise.dll
+C:\Users\APM02-54\Desktop\ProjectCsharp\FifthExercise\bin\Debug\net7.0\FifthExercise.pdb
+C:\Users\APM02-54\Desktop\ProjectCsharp\FifthExercise\obj\Debug\net7.0\FifthExercise.genruntimeconfig.cache
+C:\Users\APM02-54\Desktop\ProjectCsharp\FifthExercise\obj\Debug\net7.0\ref\FifthExercise.dll
